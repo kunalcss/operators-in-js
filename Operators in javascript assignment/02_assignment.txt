@@ -1,0 +1,9 @@
+Describe the usage of the comma operator in JavaScript and provide an example.
+
+Solution-->
+
+The comma operator in JavaScript allows you to evaluate multiple expressions within a single statement. It evaluates each of the expressions from left to right and returns the value of the rightmost expression. The comma operator is often used in situations where multiple expressions need to be executed, but only one value is expected, such as in a loop header or multiple variable declarations.
+
+The syntax for the comma operator is:
+
+expression1, expression2, expression3, ..., expressionN
